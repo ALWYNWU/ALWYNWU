@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ALWYNWU
+- 👋 Hi, I’m @Yilong
 - 👀 I’m interested in all sorts of weird things
 - 🌱 I’m currently graduate student in University of Alberta(Software Engineering)
 - 💞️ I’m looking to find a SDE job
