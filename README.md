@@ -9,7 +9,7 @@
 - 🌱 I’m currently a graduate student in University of Alberta(Software Engineering)
 - 📫 How to reach me yilongwu97@gmail.com
 
-<div align="center"><img src="https://raw.githubusercontent.com/alwynwu/alwynwu/main/assets/github-contribution-grid-snake.svg" ></div>
+![github contribution grid snake animation](https://raw.githubusercontent.com/alwynwu/alwynwu/output/github-contribution-grid-snake.svg)
 
 
 <!---
