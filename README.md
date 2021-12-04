@@ -9,7 +9,8 @@
 - 🌱 I’m currently a graduate student in University of Alberta(Software Engineering)
 - 📫 How to reach me yilongwu97@gmail.com
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/alwynwu/alwynwu/output/github-contribution-grid-snake.svg)
+<div align="center"><img src="https://raw.githubusercontent.com/alwynwu/alwynwu/main/assets/github-contribution-grid-snake.svg" ></div>
+
 
 <!---
 ALWYNWU/ALWYNWU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
