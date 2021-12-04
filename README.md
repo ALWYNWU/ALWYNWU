@@ -1,5 +1,9 @@
 
 ![](https://img.shields.io/badge/-GET%20STARTED-red?style=for-the-badge)
+![](https://img.shields.io/badge/stability-stable-ff69b4?style=for-the-badge)
+![](https://img.shields.io/badge/build-passing-success?style=for-the-badge)
+![](https://img.shields.io/badge/maintained-yes-orange?style=for-the-badge)
+![](https://img.shields.io/badge/made%20with-inspiration-blue?style=for-the-badge)
 
 - 👋 Hi, I’m @Yilong
 - 🌱 I’m currently a graduate student in University of Alberta(Software Engineering)
