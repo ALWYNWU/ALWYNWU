@@ -9,10 +9,7 @@
 - 🌱 I’m currently a graduate student in University of Alberta(Software Engineering)
 - 📫 How to reach me yilongwu97@gmail.com
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/ALWYNWU/ALWYNWU/assets/github-contribution-grid-snake.svg" ></div>
-
-<div align="center"><img src="https://raw.githubusercontent.com/ALWYNWU/ALWYNWU/main/assets/github-contribution-grid-snake.svg" ></div>
-
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
 <!---
 ALWYNWU/ALWYNWU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
